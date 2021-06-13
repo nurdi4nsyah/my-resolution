@@ -1,0 +1,4 @@
+RENCANA BELJAR PROGRAMMING
+- mempelajari bahasa program php
+- mempelajari bahasa program laravel
+- mempelajari tentang API
